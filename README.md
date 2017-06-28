@@ -1,2 +1,2 @@
 # hello-world
-This is Christian test project
+This is Christian test project. Enjoy!
